@@ -1,6 +1,6 @@
-# markdown
+------------markdown------------------------
 
-# Standard Syntax guide
+----------Standard Syntax guide-------------
 
 ## Headings
 # Heading level 1
@@ -50,7 +50,7 @@ As Kanye West said:
 
 
 
-# GitHub Flavored Markdown
+------------GitHub Flavored Markdown----------
 
 ## Syntax highlighting
 ```javascript
