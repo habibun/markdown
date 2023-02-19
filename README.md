@@ -113,3 +113,7 @@ Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 GitHub supports [emoji!](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji)
 
 To see a list of every image we support, check out the [Emoji Cheat Sheet.](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
+## Learn More
+ - [Markdown Tutorial](https://www.markdowntutorial.com/)
