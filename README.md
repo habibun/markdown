@@ -1,14 +1,12 @@
-----------------------------------------------------markdown------------------------------------------------------------
 
----------------------------------------------Standard Syntax guide------------------------------------------------------
-
-## Headings
+## Headers
 # Heading level 1
 ## Heading level 2
 ### Heading level 3
 #### Heading level 4
 ##### Heading level 5
 ###### Heading level 6
+
 
 ## Emphasis
 *This text will be italic*
@@ -20,6 +18,28 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+
+
+## Links
+Inline link: [Visit GitHub!](www.github.com)  
+reference link: [google][google]  
+
+[google]: www.google.com
+
+
+
+## Images
+inline image link: ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+reference image: ![Black cat][Black cat]
+
+[Black cat]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
+
+## Blockquotes
+
+As Kanye West said:
+> We're living the future so the present is our past.
+
 
 ## Lists
 #### Unordered
@@ -33,20 +53,6 @@ _You **can** combine them_
 1. Item 3
    1. Item 3a
    1. Item 3b
-   
-## Images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)   
-
-## Links
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-## Blockquotes
-
-As Kanye West said:
-> We're living the future so
-> the present is our past.
 
 
 
