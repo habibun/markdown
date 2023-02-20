@@ -124,3 +124,5 @@ To see a list of every image we support, check out the [Emoji Cheat Sheet.](http
 
 ## Learn More
  - [Markdown Tutorial](https://www.markdowntutorial.com/)
+ - [Markdown Essentials](https://www.udemy.com/course/markdown-essentials/)
+ 
