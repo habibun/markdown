@@ -26,6 +26,9 @@ reference link: [google][google]
 
 [google]: www.google.com
 
+**Relative links**
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 
 
 ## Images
