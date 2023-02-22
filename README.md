@@ -1,5 +1,5 @@
 
-## Headers
+## Headings
 # Heading level 1
 ## Heading level 2
 ### Heading level 3
@@ -9,7 +9,6 @@
 
 
 ## Styling text
-
 Bold:
 **This is bold text**
 __This is bold text__
