@@ -52,10 +52,10 @@ reference link: [google][google]
 
 
 ## Images
-inline image link: ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+inline image link: ![Benjamin Bannekat](https://fake.octodex.github.com/images/bannekat.png)
 reference image: ![Black cat][Black cat]
 
-[Black cat]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+[Black cat]: https://fake.upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
 
 ## Blockquotes
