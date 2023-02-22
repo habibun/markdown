@@ -8,16 +8,37 @@
 ###### Heading level 6
 
 
-## Emphasis
-*This text will be italic*
+## Styling text
 
-_This will also be italic_
+Bold:
+**This is bold text**
+__This is bold text__
 
-**This text will be bold**
 
-__This will also be bold__
+Italic:
+*This text is italicized*
+_This text is italicized_
 
-_You **can** combine them_
+
+Strikethrough:
+~~This was mistaken text~~
+
+
+Bold and nested italic:
+**This text is _extremely_ important**
+
+
+All bold and italic:
+***All this text is important***
+
+
+Subscript:
+<sub>This is a subscript text</sub>
+
+
+Superscript:
+<sup>This is a superscript text</sup>
+
 
 
 ## Links
@@ -126,6 +147,7 @@ To see a list of every image we support, check out the [Emoji Cheat Sheet.](http
 
 
 ## Learn More
+ - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
  - [Markdown Tutorial](https://www.markdowntutorial.com/)
  - [Markdown Essentials](https://www.udemy.com/course/markdown-essentials/)
  
