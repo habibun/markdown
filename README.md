@@ -106,6 +106,8 @@ To create a task list, preface list items with a hyphen and space followed by [ 
 
 
 ## Paragraphs  
+You can create a new paragraph by leaving a blank line between lines of text.  
+
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
