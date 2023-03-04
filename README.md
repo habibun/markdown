@@ -137,4 +137,4 @@ For a full list of available emoji and codes, check out the [Emoji-Cheat-Sheet](
  - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
  - [Markdown Tutorial](https://www.markdowntutorial.com/)
  - [Markdown Essentials](https://www.udemy.com/course/markdown-essentials/)
- 
+ - [What I learned from an old GitHub project that won 3,000 Stars in a Week](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/)  
